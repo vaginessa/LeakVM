@@ -20,6 +20,20 @@
 * Extensible<br>
 
 
+<b>Samples</b>:<br>
+[How add LeakVM](https://gist.github.com/XekriCorp/b46894288f8f432018d0b80b3ea8a5fc)<br>
+[Connecting to API](https://gist.github.com/XekriCorp/c4430242004d73cc534bff243aa9a025)<br>
+[How Test Exploits](https://gist.github.com/XekriCorp/4de3d0246f4d88ee4d8198a8acd3c2e7)<br>
+[How use Common IO methods](https://gist.github.com/XekriCorp/3d23cd5fb179d1dd13b5b83ba61c68cc)<br>
+[How to Load libraries](https://gist.github.com/XekriCorp/548e9e18116b076227fe285cd03f02eb)<br>
+[How to Sudo & Runas](https://gist.github.com/XekriCorp/cb0f162076f1a2404b60abbf93ac544c)<br>
+[How compile a native binary (ELF)](https://gist.github.com/XekriCorp/8a426695764d166f85acb9a22cfe8062)<br>
+[How to run loaded code](https://gist.github.com/XekriCorp/ff2970fcecb03f6f735783f97f2261f2)<br>
+[How to Hack OOP](https://gist.github.com/XekriCorp/2d5f14c241101fa07028c78f5d087d36)<br>
+[How to Inject code Native/VM](https://gist.github.com/XekriCorp/e4fa7581222891150b23a4f4af80e22d)<br>
+[Build VM Code to Inject](https://gist.github.com/XekriCorp/8b3d8ff430eecc56701af704cfcfcb7a)<br>
+
+
 <b>Support</b>:<br>
 * Android 4.4 to 6.0<br>
 * Architectures Arm(32/64 bits), x86(32/64 bits), MIPS(32/64 bits)<br>
