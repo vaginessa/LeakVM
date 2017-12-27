@@ -13,7 +13,7 @@
 [How to run loaded code](https://gist.github.com/XekriCorp/ff2970fcecb03f6f735783f97f2261f2)<br>
 [How to Hack OOP](https://gist.github.com/XekriCorp/2d5f14c241101fa07028c78f5d087d36)<br>
 [How to Inject code Native/VM](https://gist.github.com/XekriCorp/e4fa7581222891150b23a4f4af80e22d)<br>
-[Build VM Code to Inject](https://gist.github.com/XekriCorp/8b3d8ff430eecc56701af704cfcfcb7a)<br>
+[How build VM Code to Inject](https://gist.github.com/XekriCorp/8b3d8ff430eecc56701af704cfcfcb7a)<br>
 
 
 <b>Features</b>:<br>
