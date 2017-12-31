@@ -3,6 +3,7 @@
 ![LeakVM](LeakVM.jpg)
 
 <b>Samples</b>:<br><br>
+[JavaDoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
 [How add LeakVM](https://gist.github.com/XekriCorp/b46894288f8f432018d0b80b3ea8a5fc)<br>
 [How Connect to API](https://gist.github.com/XekriCorp/c4430242004d73cc534bff243aa9a025)<br>
 [How Test Exploits](https://gist.github.com/XekriCorp/4de3d0246f4d88ee4d8198a8acd3c2e7)<br>
@@ -39,8 +40,6 @@
 * Architectures Arm(32/64 bits), x86(32/64 bits), MIPS(32/64 bits)<br>
 
 <br>You team are ready for us ?<br>
-
-See our [javadoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
 
 Follow us on [Twitter](https://twitter.com/XekriCorp/)<br>
 Follow us on [Instagram](https://www.instagram.com/xekricorp/)<br>
