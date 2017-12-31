@@ -39,8 +39,8 @@
 * Android 4.4 to 6.0<br>
 * Architectures Arm(32/64 bits), x86(32/64 bits), MIPS(32/64 bits)<br>
 
-<br>You team are ready for us ?<br>
+<b>Social Media</b>:<br>
 
-Follow us on [Twitter](https://twitter.com/XekriCorp/)<br>
-Follow us on [Instagram](https://www.instagram.com/xekricorp/)<br>
-Follow us on [Facebook](https://www.facebook.com/XekriCorp/)<br><br>
+[Twitter](https://twitter.com/XekriCorp/)<br>
+[Instagram](https://www.instagram.com/xekricorp/)<br>
+[Facebook](https://www.facebook.com/XekriCorp/)<br><br>
