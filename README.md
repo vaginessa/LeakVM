@@ -9,9 +9,6 @@ LeakVM fast security test on Android, by skipping the time-consuming build pen-t
 <b>Why Pentesting</b>:<br><br>
 With 2000 million active devices, 90% of mobile users are vulnerable to exploit kits (software vulnerabilities), Cyber crime damage costs to hit $6 trillion annually by 2021, Mobile Malware Shows Rapid Growth in Volume and Sophistication, Mobile security is a big data problem.</br></br>Unsecured devices and apps are the norm, In 2017 every 4.2 seconds a new malware specimen emerges, You need to reduce the threat surface.
 
-<b>Protection</b>:<br><br>
-The 63% of Data Breaches Result From Weak or Stolen Passwords, Our products no longer use them, We created an advanced security system, implementing the highest degree of encryption, we using integrity verification system for your session, you only need a single click to log in on our system.</br></br>All our system is designed from scratch, was created with security in mind, we create many layers of security to protect our system and your data.
-
 <b>Samples</b>:<br><br>
 [JavaDoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
 [How add LeakVM](https://gist.github.com/XekriCorp/b46894288f8f432018d0b80b3ea8a5fc)<br>
