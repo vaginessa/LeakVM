@@ -52,3 +52,5 @@ With 2000 million active devices, 90% of mobile users are vulnerable to exploit 
 [Twitter](https://twitter.com/XekriCorp/)<br>
 [Instagram](https://www.instagram.com/xekricorp/)<br>
 [Facebook](https://www.facebook.com/XekriCorp/)<br><br>
+[LeakVM Developers Group](https://www.facebook.com/groups/316531135529940/)<br><br>
+
