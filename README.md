@@ -5,10 +5,15 @@
 <b>Why LeakVM</b>:<br><br>
 LeakVM fast security test on Android, by skipping the time-consuming build pen-testing laboratories, you can test on real devices or virtual devices. LeakVM makes researchers and pen-testers more productive since they can run the test on real time and with zero knowledge on malware develop or attacks.<br><br>Our technology uses the same techniques used in criminal software, but in a controlled environment, you always have control over the SDK, our product, gives you a real approach against real malware and real attacks.
 
-
 <b>Why Pentesting</b>:<br><br>
 With 2000 million active devices, 90% of mobile users are vulnerable to exploit kits (software vulnerabilities), Cyber crime damage costs to hit $6 trillion annually by 2021, Mobile Malware Shows Rapid Growth in Volume and Sophistication, Mobile security is a big data problem.</br></br>Unsecured devices and apps are the norm, In 2017 every 4.2 seconds a new malware specimen emerges, You need to reduce the threat surface.
 
+<b>Rewards</b>:<br><br>
+Our platform is designed even so that anyone can make money with us, without any type of investment, by sharing your reseller link, the customer that is obtained will bring you rewards, now we have 3 methods of payment: Western Union, Wire Transfer and PayPal, These rewards will be received for life, is just share a link.<br>
+
+For first 100 customers: new client 20%, renewal 10%.<br>
+For next 900 clients: new client 15%, renewal 10%.<br>
+After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 
 <b>Features</b>:<br>
 * Ptrace/ASLR/Yama Bypass<br>
@@ -45,7 +50,6 @@ With 2000 million active devices, 90% of mobile users are vulnerable to exploit 
 [How to Hack OOP](https://gist.github.com/XekriCorp/2d5f14c241101fa07028c78f5d087d36)<br>
 [How to Inject code Native/VM](https://gist.github.com/XekriCorp/e4fa7581222891150b23a4f4af80e22d)<br>
 [How build VM Code to Inject](https://gist.github.com/XekriCorp/8b3d8ff430eecc56701af704cfcfcb7a)<br>
-
 
 <b>Social Media</b>:<br>
 
