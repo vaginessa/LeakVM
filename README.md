@@ -38,7 +38,8 @@ After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 * Architectures Arm(32/64 bits), x86(32/64 bits), MIPS(32/64 bits)<br>
 
 <b>Samples</b>:<br><br>
-[JavaDoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
+[Where is JavaDoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
+[How configure a Virtual Device](https://gist.github.com/XekriCorp/7bc99bcf4f23dd05ac7e3b9f70396079)<br>
 [How Install LeakVM SDK](https://gist.github.com/XekriCorp/b46894288f8f432018d0b80b3ea8a5fc)<br>
 [How Connect to API](https://gist.github.com/XekriCorp/c4430242004d73cc534bff243aa9a025)<br>
 [How Test Exploits](https://gist.github.com/XekriCorp/4de3d0246f4d88ee4d8198a8acd3c2e7)<br>
