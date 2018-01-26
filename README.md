@@ -39,7 +39,7 @@ After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 
 <b>Samples</b>:<br><br>
 [JavaDoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
-[How add LeakVM](https://gist.github.com/XekriCorp/b46894288f8f432018d0b80b3ea8a5fc)<br>
+[How Install LeakVM SDK](https://gist.github.com/XekriCorp/b46894288f8f432018d0b80b3ea8a5fc)<br>
 [How Connect to API](https://gist.github.com/XekriCorp/c4430242004d73cc534bff243aa9a025)<br>
 [How Test Exploits](https://gist.github.com/XekriCorp/4de3d0246f4d88ee4d8198a8acd3c2e7)<br>
 [How use Common IO methods](https://gist.github.com/XekriCorp/3d23cd5fb179d1dd13b5b83ba61c68cc)<br>
