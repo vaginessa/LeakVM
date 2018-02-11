@@ -53,7 +53,7 @@ After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 [How build VM Code to Inject](https://gist.github.com/XekriCorp/8b3d8ff430eecc56701af704cfcfcb7a)<br>
 
 <b>Downloads</b>:<br><br>
-[LeakVM APP 1.0.0](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/downloads/LeakVM_1_0_1.apk)<br>
+[LeakVM APP](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/downloads/LeakVM_1_0_1.apk)<br>
 [LeakVM SDK 1.0.0](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/maven/com/xekri/leakvm/sdk/1.0.0/sdk-1.0.0.aar)<br>
 
 <b>Web Interface</b>:<br><br>
