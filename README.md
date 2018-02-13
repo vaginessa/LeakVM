@@ -15,6 +15,53 @@ For first 100 customers: new client 20%, renewal 10%.<br>
 For next 900 clients: new client 15%, renewal 10%.<br>
 After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 
+<b>Questions</b>:<br><br>
+
+I can inject ELF/APK code inside of the sandbox of any package ?<br>
+Yes, you can.<br>
+<br>
+I can load external libraries ?<br>
+Yes, from  Git's, Mediafire and another sources.<br>
+<br>
+I can start a HTTP service ?<br>
+Yes, as synchronous and asynchronous way.<br>
+<br>
+I can start a HTTP client ?<br>
+Yes, we have one, very configurable.<br>
+<br>
+I can analyze security on ELF as V.A.S ?
+Yes, you can.<br>
+<br>
+I can bypass OOP protections ?<br>
+Yes, there not exist: 'package', 'private', 'protected' or 'final'.<br>
+<br>
+I can extract private files from external packages ?<br>
+Yes, you can see and get any file.<br>
+<br>
+I can hack the Keystore ?<br>
+Yes, you can.<br>
+<br>
+I can trick the Context ?<br>
+Yes, you can.<br>
+<br>
+I can hack the SmartLock ?<br>
+Yes, you can.<br>
+<br>
+I can use reflections in simple way ?<br>
+Yes, you can.<br>
+<br>
+I can see the Linux system in simple way ?<br>
+Yes, you can.<br>
+<br>
+I can install it on simple way ?<br>
+Yes, just with 2 lines on the gradle.<br>
+<br>
+I can develop plugins with it ?<br>
+Yes, on the same way as AAR library.<br>
+<br>
+Any can use it in a simple way ?<br>
+Yes, we develop it for dummies.<br><br>
+
 <b>Features</b>:<br>
 * Ptrace/ASLR/Yama Bypass<br>
 * API for 3rd party projects<br>
