@@ -110,7 +110,8 @@ Yes, we develop it for dummies.<br><br>
 
 [Twitter](https://twitter.com/XekriCorp/)<br>
 [Instagram](https://www.instagram.com/xekricorp/)<br>
-[Facebook](https://www.facebook.com/XekriCorp/)<br><br>
+[Facebook](https://www.facebook.com/XekriCorp/)<br>
+[LinkedIn](https://www.linkedin.com/company/xekricorp/)<br><br>
 [LeakVM Developers Group](https://www.facebook.com/groups/316531135529940/)<br>
 
 <b>Legal</b>:<br>
