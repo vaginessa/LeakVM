@@ -3,11 +3,9 @@
 ![LeakVM](LeakVM.jpg)
 
 <b>Why LeakVM</b>:<br><br>
-LeakVM fast security test on Android, by skipping the time-consuming build pen-testing laboratories, you can test on real devices or virtual devices. LeakVM makes researchers and pen-testers more productive since they can run the test on real time and with zero knowledge on malware develop or attacks.<br><br>Our technology uses the same techniques used in criminal software, but in a controlled environment, you always have control over the SDK, our product, gives you a real approach against real malware and real attacks.
-
-<b>Why Pentesting</b>:<br><br>
-With 2000 million active devices, 90% of mobile users are vulnerable to exploit kits (software vulnerabilities), Cyber crime damage costs to hit $6 trillion annually by 2021, Mobile Malware Shows Rapid Growth in Volume and Sophistication, Mobile security is a big data problem.</br></br>Unsecured devices and apps are the norm, In 2017 every 4.2 seconds a new malware specimen emerges, You need to reduce the threat surface.
-
+LeakVM is a fast security test on Android, much of the commercial infrastructure hacking has been done through insecure APIs and / or bad security practices, we imitate criminal attacks on the mobile infrastructure for your company to improve their security, this will save damage to your image and your business.
+                                <br><br>Our technology uses the same techniques used by criminals, but in a controlled environment, you always have control over the SDK, our product, gives you a real approach against attacks.
+                                
 <b>Rewards</b>:<br><br>
 Our platform is designed even so that anyone can make money with us, without any type of investment, by sharing your reseller link, the customer that is obtained will bring you rewards, now we have 3 methods of payment: Western Union, Wire Transfer and PayPal, These rewards will be received for life, is just share a link.<br>
 
@@ -29,11 +27,14 @@ Yes, as synchronous and asynchronous way.<br>
 I can start a HTTP client ?<br>
 Yes, we have one, very configurable.<br>
 <br>
-I can analyze security on ELF as V.A.S ?
+I can analyze security on ELF as V.A.S (Vector Attack Scanner) ?<br>
 Yes, you can.<br>
 <br>
 I can bypass OOP protections ?<br>
 Yes, there not exist: 'package', 'private', 'protected' or 'final'.<br>
+<br>
+I can hack the File System ?<br>
+Yes, you can track, hook and modify arguments.<br>
 <br>
 I can extract private files from external packages ?<br>
 Yes, you can see and get any file.<br>
@@ -42,9 +43,6 @@ I can hack the Keystore ?<br>
 Yes, you can.<br>
 <br>
 I can trick the Context ?<br>
-Yes, you can.<br>
-<br>
-I can hack the SmartLock ?<br>
 Yes, you can.<br>
 <br>
 I can use reflections in simple way ?<br>
@@ -75,6 +73,7 @@ Yes, we develop it for dummies.<br><br>
 * Privilege escalation<br>
 * Context Spoofers<br>
 * Core Observers<br>
+* File System hacking<br>
 * Library injection<br>
 * OOP Bypass<br>
 * Extensible<br>
@@ -112,7 +111,6 @@ Yes, we develop it for dummies.<br><br>
 [LinkedIn](https://www.linkedin.com/company/xekricorp/)<br>
 [Facebook](https://www.facebook.com/XekriCorp/)<br>
 [Instagram](https://www.instagram.com/xekricorp/)<br>
-<br>[LeakVM Developers Group](https://www.facebook.com/groups/316531135529940/)<br>
 
 <b>Legal</b>:<br>
 
