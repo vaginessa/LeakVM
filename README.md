@@ -3,11 +3,11 @@
 ![LeakVM](LeakVM.jpg)
 
 <b>Why LeakVM</b>:<br><br>
-LeakVM is a fast security test on Android, much of the commercial infrastructure hacking has been done through insecure APIs and / or bad security practices, we imitate criminal attacks on the mobile infrastructure for your company to improve their security, this will save damage to your image and your business.
-                                <br><br>Our technology uses the same techniques used by criminals, but in a controlled environment, you always have control over the SDK, our product, gives you a real approach against attacks.
+LeakVM is a fast security test on Android, much of the commercial infrastructure hacking has been done through insecure APIs and / or bad security practices, we imitate criminal attacks on the mobile infrastructure for your company to improve their security, this will save damage to your image and your business.<br><br>
+Our technology uses the same techniques used by criminals, but in a controlled environment, you always have control over the SDK, our product, gives you a real approach against attacks.
                                 
 <b>Rewards</b>:<br><br>
-Our platform is designed even so that anyone can make money with us, without any type of investment, by sharing your reseller link, the customer that is obtained will bring you rewards, now we have 3 methods of payment: Western Union, Wire Transfer and PayPal, These rewards will be received for life, is just share a link.<br>
+Our platform is designed even so that anyone can make money with us, without any type of investment, by sharing your link, the customer that is obtained will bring you rewards, now we support PayPal, These rewards will be received for life, is just share a link.<br>
 
 For first 100 customers: new client 20%, renewal 10%.<br>
 For next 900 clients: new client 15%, renewal 10%.<br>
@@ -65,17 +65,16 @@ Yes, we develop it for dummies.<br><br>
 * API for 3rd party projects<br>
 * Linux common features<br>
 * Dynamic library loading<br>
-* SmartLock extraction<br>
 * Private file extractor<br>
 * KeyStore extraction<br>
 * Advanced reflection<br>
 * WebServices Engine<br>
-* Privilege escalation<br>
+* Permission impersonator<br>
+* File System hacking<br>
 * Context Spoofers<br>
 * Core Observers<br>
-* File System hacking<br>
 * Library injection<br>
-* OOP Bypass<br>
+* OOP hacking<br>
 * Extensible<br>
 
 
