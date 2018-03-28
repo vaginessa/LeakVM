@@ -17,14 +17,14 @@ After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 * Advanced MetaProgramming (OOP hacking)<br>
 * Dynamic library loading (Multiple sources)<br>
 * Arbitrary code injection (ELF / APK)<br>
-* API for 3rd party projects<br>
 * Ptrace/ASLR/Yama Bypass<br>
 * Permissions impersonator<br>
+* API for 3rd party projects<br>
 * Linux common features<br>
+* WebServices engine<br>
 * Linux core observers<br>
 * File System hacking<br>
 * Private file extractor<br>
-* WebServices engine<br>
 * KeyStore hacking<br>
 * Context spoofers<br>
 * Memory dumps<br>
