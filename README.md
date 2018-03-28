@@ -14,31 +14,31 @@ For next 900 clients: new client 15%, renewal 10%.<br>
 After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 
 <b>Features</b>:<br>
+* Advanced MetaProgramming (OOP hacking)<br>
+* Dynamic library loading (Multiple sources)<br>
+* Arbitrary code injection (ELF / APK)<br>
 * Ptrace/ASLR/Yama Bypass<br>
 * API for 3rd party projects<br>
+* Permissions impersonator<br>
+* API for 3rd party projects<br>
 * Linux common features<br>
-* Dynamic library loading<br>
-* Private file extractor<br>
-* KeyStore extraction<br>
-* Advanced reflection<br>
-* WebServices Engine<br>
-* Permission impersonator<br>
+* Linux core observers<br>
 * File System hacking<br>
-* Context Spoofers<br>
-* Core Observers<br>
-* Library injection<br>
-* OOP hacking<br>
+* Private file extractor<br>
+* WebServices engine<br>
+* KeyStore hacking<br>
+* Context spoofers<br>
+* Memory dumps<br>
 * Extensible<br>
-
 
 <b>Support</b>:<br>
 * Android 4.4 to 6.0<br>
 * Architectures Arm(32/64 bits), x86(32/64 bits), MIPS(32/64 bits)<br>
-* Injections only on X86 Marshmallow<br>
+* For now code injections only on Marshmallow X86<br>
 
 <b>Downloads</b>:<br><br>
-[LeakVM APP](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/downloads/LeakVM_1_0_1.apk)<br>
-[LeakVM SDK 1.0.0](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/maven/com/xekri/leakvm/sdk/1.0.0/sdk-1.0.0.aar)<br>
+[LeakVM APP](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/downloads/LeakVM_1_0_2.apk)<br>
+[LeakVM SDK 1.0.2](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/maven/com/xekri/leakvm/sdk/1.0.0/sdk-1.0.2.aar)<br>
 
 <b>Web Site</b>:<br><br>
 [LeakVM](https://xekricorp.com/leakvm/)<br>
