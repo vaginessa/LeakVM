@@ -25,6 +25,7 @@ After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 * Linux core observers<br>
 * File System hacking<br>
 * Private file extractor<br>
+* SmartLock hacking<br>
 * KeyStore hacking<br>
 * Context spoofers<br>
 * Memory dumps<br>
