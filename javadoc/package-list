@@ -1,10 +1,10 @@
 com.xekri.leakvm.sdk
-com.xekri.leakvm.sdk.dao.arch
-com.xekri.leakvm.sdk.dao.elf
-com.xekri.leakvm.sdk.dao.exploits
-com.xekri.leakvm.sdk.dao.linux
-com.xekri.leakvm.sdk.dao.observers
-com.xekri.leakvm.sdk.io.utils
+com.xekri.leakvm.sdk.common.arch
+com.xekri.leakvm.sdk.common.elf
+com.xekri.leakvm.sdk.common.exploits
+com.xekri.leakvm.sdk.common.linux
+com.xekri.leakvm.sdk.common.observers
+com.xekri.leakvm.sdk.hook.generics
 com.xekri.leakvm.sdk.keystore
 com.xekri.leakvm.sdk.net
 com.xekri.leakvm.sdk.net.server
