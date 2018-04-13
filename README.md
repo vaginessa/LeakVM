@@ -1,4 +1,4 @@
-<h2>LeakVM: Run security tests instantly</h2>
+<h2>LeakVM: A better way to discover insecure infrastructure</h2>
 
 ![LeakVM](LeakVM.jpg)
 
