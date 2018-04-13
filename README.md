@@ -38,7 +38,7 @@ After reaching 1000 clients: new client 10%, renewal 5%.<br><br>
 
 <b>Downloads</b>:<br><br>
 [LeakVM APP](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/downloads/LeakVM_1_0_2.apk)<br>
-[LeakVM SDK](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/maven/com/xekri/leakvm/sdk/1.0.0/sdk-1.0.2.aar)<br>
+[LeakVM SDK](https://raw.githubusercontent.com/XekriCorp/LeakVM/master/maven/com/xekri/leakvm/sdk/1.0.2/sdk-1.0.2.aar)<br>
 
 <b>Web Site</b>:<br><br>
 [LeakVM](https://xekricorp.com/leakvm/)<br>
