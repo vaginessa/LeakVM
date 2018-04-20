@@ -3,10 +3,10 @@
     <groupId>com.xekri.leakvm</groupId>
     <artifactId>sdk</artifactId>
     <versioning>
-        <release>1.0.2</release>
+        <release>1.0.3</release>
         <versions>
-            <version>1.0.2</version>
+            <version>1.0.3</version>
         </versions>
-        <lastUpdated>20180411190008</lastUpdated>
+        <lastUpdated>20180419191948</lastUpdated>
     </versioning>
 </metadata>
